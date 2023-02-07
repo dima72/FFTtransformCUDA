@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transformCUFFT", "transformCUFFT.csproj", "{D14002D9-E62F-42CF-8281-8ADB964EE850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14002D9-E62F-42CF-8281-8ADB964EE850}.Debug|x64.ActiveCfg = Debug|x64
+		{D14002D9-E62F-42CF-8281-8ADB964EE850}.Debug|x64.Build.0 = Debug|x64
+		{D14002D9-E62F-42CF-8281-8ADB964EE850}.Release|x64.ActiveCfg = Release|x64
+		{D14002D9-E62F-42CF-8281-8ADB964EE850}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1088799F-CEBB-46E7-841C-BBB99A82831D}
+	EndGlobalSection
+EndGlobal
